@@ -16,7 +16,7 @@ This project is the example of real-world news application. This project was dev
 
 - [Download the installer](https://nodejs.org/en/) for Node.js 8
 - Install the ionic CLI globally: `npm install -g ionic`
-- Clone this repository: `git clone https://github.com/ikismail/IonicNewsPortal.git`
+- Clone this repository: `git clone https://github.com/ramonaoldf/IonicNewsPortal.git`
 - Run `npm install` from the project root.
 - Run `ionic serve` in a terminal from the project root.
 - Profit 🎉
